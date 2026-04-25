@@ -1,0 +1,13 @@
+PHISHING EMAIL ANALYSIS REPORT
+
+Observations:
+- Suspicious sender email address
+- Urgent message requesting immediate action
+- Fake login link included
+- Request for sensitive information
+
+Analysis:
+The email contains common phishing indicators such as spoofed sender address and social engineering tactics designed to trick the user.
+
+Conclusion:
+This email is a phishing attempt and should be ignored or reported.
