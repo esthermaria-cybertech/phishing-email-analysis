@@ -1,26 +1,25 @@
-# phishing-email-analysis
-Analyzing phishing emails to identify malicious indicators and social engineering tactics
-
 # Phishing Email Analysis
+
 ## 📌 Objective
-To analyze suspicious emails and identify phishing indicators.
+To analyze a suspicious email and identify phishing indicators.
 
 ## 🔍 Scenario
-A user reported receiving a suspicious email asking for login credentials and urgent action.
+A user received a suspicious email requesting sensitive information and login verification.
 
 ## 📂 Project Files
-- email-sample.txt → Contains the phishing email content
-- analysis-report.txt → Breakdown of phishing indicators
+- email-sample.txt → Contains the suspicious email
+- investigation.txt → Analysis of phishing indicators
 
 ## 🚨 Findings
-- Urgent language used to create panic
+- Suspicious sender address
+- Urgent language requesting immediate action
 - Fake login link detected
-- Sender impersonation suspected
+- Request for sensitive information
 
-## ✅ Conclusion
-The email is a phishing attempt designed to steal credentials.
+## ❌ Conclusion
+The email is a phishing attempt designed to steal user credentials.
 
 ## 💡 Skills Demonstrated
-- Email threat analysis  
-- Phishing detection  
-- Social engineering awareness
+- Email security analysis
+- Phishing detection
+- Threat identification
