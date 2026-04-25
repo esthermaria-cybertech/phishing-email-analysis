@@ -1,0 +1,12 @@
+From: security-alert@paypaI-secure.com
+Subject: Urgent: Verify your account immediately
+
+Dear user,
+
+Your account has been suspended due to suspicious activity. Please click the link below to verify your identity immediately:
+
+http://fake-login-secure.com
+
+Failure to act within 24 hours will result in permanent account closure.
+
+PayPal Security Team
